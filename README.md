@@ -19,7 +19,7 @@ Features:
 3. Type your name, chat, type quiz to start quiz, type add task to add a task
 
 ## Screenshots
-Quiz and Activity Log screenshots are in this repo.
+Quiz completed (PART 3 png)
 
 ## Video Demo
-Video demo link:
+Watch Video demo here( https://youtu.be/yjztK1nOQKQ)
